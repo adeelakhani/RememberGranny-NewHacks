@@ -5,4 +5,3 @@ cd into project
 export FLASK_ENV=development
 export FLASK_APP=flaskserver.py
 flask run 
-Note: this version only have the detector implemented need to implement generator
